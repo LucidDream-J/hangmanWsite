@@ -27,7 +27,7 @@ const words = [
   "illegal-immigrant",
   "riot",
   "protest",
-  "drunk ",
+  "drunk",
   "criminal",
   "fat",
   "slum",
