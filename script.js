@@ -32,7 +32,7 @@ const words = [
   "fat",
   "slum",
   "housewife",
-  "unemployed ",
+  "unemployed",
   "fascist",
   "robbery",
   "blackboard",
